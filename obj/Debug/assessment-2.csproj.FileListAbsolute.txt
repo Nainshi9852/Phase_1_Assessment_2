@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-21\assessment-2\assessment-2\bin\Debug\assessment-2.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-21\assessment-2\assessment-2\bin\Debug\assessment-2.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-21\assessment-2\assessment-2\bin\Debug\assessment-2.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-21\assessment-2\assessment-2\obj\Debug\assessment-2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-21\assessment-2\assessment-2\obj\Debug\assessment-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-21\assessment-2\assessment-2\obj\Debug\assessment-2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-21\assessment-2\assessment-2\obj\Debug\assessment-2.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-21\assessment-2\assessment-2\obj\Debug\assessment-2.pdb
